@@ -5,6 +5,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href=" https://www.facebook.com/mdriajol.islam.357" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
