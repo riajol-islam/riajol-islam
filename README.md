@@ -1,6 +1,6 @@
  # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007ACC&secondaryColor=FF5733&width=600&height=50&lines=Hi+👋,+I'm+Riajol+Islam;Passionate+About+CP;Competitive+Programmer" alt="Typing SVG" />
  
- 
+ [![Codeforces Stats](https://cfratingtracker.vercel.app/api?username=Riajol_islam)](https://codeforces.com/profile/Riajol_islam)
 
 - 📫 How to reach me **riajolislam05@gmail.com**
 - 
