@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riajol Islam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Passion About CP</h3>
 
 - 📫 How to reach me **riajolislam05@gmail.com**
 
