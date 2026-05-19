@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hi+👋,+I'm+Riajol+Islam; Passionate+About+Competitive+Programming; " alt="Typing SVG" /> 
+ # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007ACC&secondaryColor=FF5733&width=600&height=50&lines=Hi+👋,+I'm+Riajol+Islam;Passionate+About+CP;Competitive+Programmer" alt="Typing SVG" />
  
  
 
