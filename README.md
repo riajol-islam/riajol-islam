@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Riajol Islam</h1>
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hi+👋,+I'm+Riajol+Islam;Passion+About+CP;Web+Developer" alt="Typing SVG" /> 
 <h3 align="center">Passion About CP</h3>
 
 - 📫 How to reach me **riajolislam05@gmail.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
  <p align="left">
