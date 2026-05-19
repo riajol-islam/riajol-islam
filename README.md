@@ -1,6 +1,6 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hi+👋,+I'm+Riajol+Islam;Passion+About+CP;Web+Developer" alt="Typing SVG" /> 
-<h3 align="center">Passion About CP</h3>
-![Codeforces](https://img.shields.io/badge/Codeforces-riajol__islam-blue?style=flat&logo=codeforces)
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hi+👋,+I'm+Riajol+Islam; Passionate+About+Competitive+Programming; " alt="Typing SVG" /> 
+ 
+ 
 
 - 📫 How to reach me **riajolislam05@gmail.com**
 - 
