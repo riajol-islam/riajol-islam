@@ -1,4 +1,4 @@
- # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007ACC&secondaryColor=FF5733&width=600&height=50&lines=Hi+👋,+I'm+Riajol+Islam;Passionate+About+CP;Competitive+Programmer" alt="Typing SVG" />
+<img width="3286" height="1080" alt="image" src="https://github.com/user-attachments/assets/724f78fd-c7d1-4f14-a25f-693d91259236" /> # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007ACC&secondaryColor=FF5733&width=600&height=50&lines=Hi+👋,+I'm+Riajol+Islam;Passionate+About+CP;Competitive+Programmer" alt="Typing SVG" />
  
  [![Codeforces Stats](https://cfratingtracker.vercel.app/api?username=Riajol_islam)](https://codeforces.com/profile/Riajol_islam)
 
@@ -22,4 +22,5 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
